@@ -4,4 +4,4 @@ Line of demo 4
 
 # demo branch feature
 
-new branch
+Start new line in branch of merge-test
